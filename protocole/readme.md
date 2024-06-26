@@ -1,5 +1,9 @@
 # Setup CROC :crocodile:
 
+## Links
+- Photos et vidéos du setup: https://cernbox.cern.ch/s/lDan7sDVQa5HfN3
+
+## Procédure step by step 
 
 - Allumer la FC7 et son ventilateur (multiprise a droite du frigo). Les LEDs doivent clignoter.
 
